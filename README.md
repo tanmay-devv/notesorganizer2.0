@@ -1,3 +1,4 @@
+# Project Status - Discontinued
 # notesorganizer
 the project is not yet complete.
 the detector works (it's the barebones of the detection system)
